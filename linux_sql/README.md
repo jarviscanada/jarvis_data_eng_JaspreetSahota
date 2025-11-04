@@ -162,4 +162,3 @@ Some potential future enhancements for the Linux Cluster Monitoring Agent may in
 - **Resource prediction and alerts** – Use historical data to predict when resources may become constrained and alert administrators in advance.  
 - **Data retention and archiving** – Implement automated data cleanup or archiving to manage database size over time.   
 - **Multi-cluster support** – Extend the system to monitor multiple clusters simultaneously.
-
