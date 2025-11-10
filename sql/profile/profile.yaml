@@ -1,0 +1,124 @@
+# Preferred name (Characters only)
+name: "Jaspreet Sahota"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_JaspreetSahota/tree/master 
+  
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a Computer Engineering graduate with hands-on experience in software quality assurance, business analysis, and full-stack development. I've had the opportunity to work on various projects in my previous roles, where I learned the importance of collaboration, curiosity, and clear communication in building effective solutions. I'm passionate about technology because it constantly evolves and challenges me to think creatively. What drives me most is finding ways to simplify complex problems, improve processes, and keep learning along the way.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - SQL/RDBMS
+    - Git & Version Control
+    - Requirement Analysis & Documentation 
+    - Agile/Scrum Methodology
+    - Software Testing (Manual & Automated)
+    - Accessibility Testing (WCAG)
+    - Jira
+  # At least 5 skills
+  competent:
+    - Python
+    - C
+    - C++
+    - Docker
+    - React.js
+    - Django/Node.js
+    - Tableau
+    - Power BI
+    - Performance Testing (JMeter)  
+  # At least 5 skills
+  familiar:
+    - HTML/CSS/Javascript
+    - AWS
+    - API Testing (Postman/REST)
+    - Object-Oriented Programming
+    - Balsamiq (wireframing/mockups)
+    - Figma
+    - Machine Learning
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Web app for resturant"
+    #URL is optional
+    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+  - name: "Machine Learning"
+    git_url:
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business Systems Analyst"
+    company: "Jarvis"
+    duration: "October 2025-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Donec masto egestas mi, vel bibendum felis."
+  - title: "Senior Program Officer"
+    company: "Health Canada"
+    duration: "September 2024-June 2025"
+    description: "Managed end-to-end program delivery by coordinating project timelines, aligning cross-functional stakeholders, and monitoring deliverables to ensure on-time execution. Conducted business analysis by gathering, refining, and documenting requirements to inform solution design and implementation. Led sprint testing cycles, working closely with developers to validate features, identify defects early, and ensure alignment with business needs. Facilitated user acceptance testing (UAT) by organizing test planning sessions, supporting execution, and collecting user feedback to confirm solution readiness."
+  - title: "Software Quality Assurance Analyst"
+    company: "Environment & Climate Change Canada"
+    duration: "May 2022-May 2024"
+    description: "Liaised regularly with stakeholders including clients, project managers, and developers to ensure clear communication of testing results and priorities, contributing to effective decision making and timely project delivery. Designed 500+ test cases across 15 applications for functional, regression, performance, automation and accessibility testing. Automated test cases using Selenium with Python, reducing manual testing by 30% and increasing efficiency. Created detailed test summary reports to support clear communication with clients, developers, and project managers. Reduced defects and improved release quality through rigorous testing and robust API validation."
+  - title: "University Advancement Assistant"
+    company: "Toronto Metropolitan University"
+    duration: "May 2021-August 2021"
+    description: "Automated removal of 1500+ near-duplicate Excel entries using Python, improving data accuracy and workflow efficiency. Supported data migration from Agilon to Salesforce, ensuring integrity and consistency. Leveraged SQL and SAP Crystal Reports to consolidate data from two databases, streamlining reporting. Introduced process improvements that boosted data accuracy and efficiency by 20%."
+
+#List of edcuation
+education: 
+  - school_name: "Toronto Metropolitan University"
+    duration: "2018-2024"
+    degree: "Bachelor of Engineering in Computer Engineering"
+    department: "Electrical and Computer Engineering, Faculty of Engineering and Architectural Science"
+    # optional
+    awards_achievements: 
+      - "Aileen Clark Lambie Award (2024): This is awarded to a second, third, or fourth-year female engineering student who has made a notable contribution to women in engineering activities in the Faculty of Engineering and Architectural Science at TMU."
+      - "Dean's List (2023, 2024)"
+      - "Specialization - Software Engineering Stream"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Currently Pursuing Certified Associate in Project Management (CAPM) through the Project Management Institute"
+  - title: "Student Leadership & Volunteering"
+    bullets:
+      - "Co-Chair of the George Vari Innovation Conference at TMU | November 2023-March 2024"
+      - "President of Toronto Metropolitan Women in Engineering Society | April 2023-May 2024"
+      - "Executive Advisor of IEEE Computer Society Toronto Metropolitan Chapter | April 2023-May 2024"
+      - "Chair of IEEE Computer Society Toronto Metropolitan Chapter | May 2022-April 2023"
+      - "VP Marketing of Toronto Metropolitan Women in Engineering Society | May 2021-April 2023"
+      - "VP Marketing of IEEE Computer Society Toronto Metropolitan Chapter | June 2021-May 2022"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Event & Portrait Photography"
+      - "Hiking"
