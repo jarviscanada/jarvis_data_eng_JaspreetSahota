@@ -70,11 +70,11 @@ professional_experience:
   - title: "Senior Program Officer"
     company: "Health Canada"
     duration: "September 2024-June 2025"
-    description: "Managed end-to-end program delivery by coordinating project timelines, aligning cross-functional stakeholders, and monitoring deliverables to ensure on-time execution. Conducted business analysis by gathering, refining, and documenting requirements to inform solution design and implementation. Led sprint testing cycles, working closely with developers to validate features, identify defects early, and ensure alignment with business needs. Facilitated user acceptance testing (UAT) by organizing test planning sessions, supporting execution, and collecting user feedback to confirm solution readiness."
+    description: "Managed end-to-end program delivery by aligning cross-functional teams, tracking milestones, and ensuring on-time execution. Gathered and documented business requirements to guide solution design and implementation. Led sprint and user acceptance testing (UAT) to validate features, identify defects early, and confirm solution readiness through close collaboration with developers and stakeholders."
   - title: "Software Quality Assurance Analyst"
     company: "Environment & Climate Change Canada"
     duration: "May 2022-May 2024"
-    description: "Liaised regularly with stakeholders including clients, project managers, and developers to ensure clear communication of testing results and priorities, contributing to effective decision making and timely project delivery. Designed 500+ test cases across 15 applications for functional, regression, performance, automation and accessibility testing. Automated test cases using Selenium with Python, reducing manual testing by 30% and increasing efficiency. Created detailed test summary reports to support clear communication with clients, developers, and project managers. Reduced defects and improved release quality through rigorous testing and robust API validation."
+    description: "Collaborated with clients, project managers, and developers to communicate testing results and priorities, ensuring timely delivery and informed decisions. Designed and executed 500+ test cases across 15 applications, covering functional, regression, performance, automation, and accessibility testing. Automated workflows using Selenium with Python, cutting manual effort by 30% and improving release quality through API validation and detailed reporting."
   - title: "University Advancement Assistant"
     company: "Toronto Metropolitan University"
     duration: "May 2021-August 2021"
@@ -88,14 +88,9 @@ education:
     department: "Electrical and Computer Engineering, Faculty of Engineering and Architectural Science"
     # optional
     awards_achievements:
-      - "Aileen Clark Lambie Award (2024): This is awarded to a second, third, or fourth-year female engineering student who has made a notable contribution to women in engineering activities in the Faculty of Engineering and Architectural Science at TMU."
+      - "Aileen Clark Lambie Award (2024): Awarded to a female engineering student who made a notable contribution to women in engineering activities at TMU."
       - "Dean's List (2023, 2024)"
       - "Specialization - Software Engineering Stream"
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
-    awards_achievements:
 
 #Optional section
 #category
@@ -106,12 +101,12 @@ others:
       - "Currently Pursuing Certified Associate in Project Management (CAPM) through the Project Management Institute"
   - title: "Student Leadership & Volunteering"
     bullets:
-      - "Co-Chair of the George Vari Innovation Conference at TMU | November 2023-March 2024"
-      - "President of Toronto Metropolitan Women in Engineering Society | April 2023-May 2024"
-      - "Executive Advisor of IEEE Computer Society Toronto Metropolitan Chapter | April 2023-May 2024"
-      - "Chair of IEEE Computer Society Toronto Metropolitan Chapter | May 2022-April 2023"
-      - "VP Marketing of Toronto Metropolitan Women in Engineering Society | May 2021-April 2023"
-      - "VP Marketing of IEEE Computer Society Toronto Metropolitan Chapter | June 2021-May 2022"
+      - "President, TMU Women in Engineering - Launched TMU's first Women in Engineering Conference; secured $25K+ sponsorships and led 35-member team."
+      - "Co-Chair, George Vari Innovation Conference - Rebooted TMU's largest tech and innovation event with 600+ delegates and new sponsor partnerships."
+      - "Executive Advisor, IEEE Computer Society TMU - Mentored 2024 team and guided event strategy and chapter operations."
+      - "Chair, IEEE Computer Society TMU - Led 10+ workshops and networking events, boosting student engagement."
+      - "VP Marketing, TMU Women in Engineering - Rebranded outreach, increasing participation by 40%."
+      - "VP Marketing, IEEE Computer Society TMU - Led promotions and collaborations to expand chapter reach."
   - title: "Activities/Hobbies"
     bullets:
       - "Event & Portrait Photography"
