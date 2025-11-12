@@ -20,6 +20,8 @@ skills:
     - Software Testing (Manual & Automated)
     - Accessibility Testing (WCAG)
     - Jira
+    - Balsamiq (wireframing/mockups)
+    - Figma
   # At least 5 skills
   competent:
     - Python
@@ -37,36 +39,25 @@ skills:
     - AWS
     - API Testing (Postman/REST)
     - Object-Oriented Programming
-    - Balsamiq (wireframing/mockups)
-    - Figma
     - Machine Learning
 
 # List of Jarvis projects
 jarvis_projects:
-  - name: "Cluster Monitor"
-    git_url: "/linux_sql"
+  - name: "Linux Cluster Monitoring Agent"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_JaspreetSahota/tree/master/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Core Java Apps"
-    git_url: "/core_java"
-    description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+    description: Developed a Linux Cluster Monitoring Agent using Bash to track CPU, memory, and disk usage across multiple Linux nodes, storing data in a PostgreSQL database. Implemented containerization with Docker, automation with crontab, and version control through Git, ensuring scalable performance monitoring. Testing scripts using psql and manual validation to verify accurate data collection and reliability. Deployed the solution in a Dockerized environment for consistent and automated system monitoring.
 
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: "LocaLens: A Tourist Recommender System"
     #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    git_url: "https://github.com/AnthonyOlijnyk/localens"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
-    git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Developed a social-network-based tourist recommender system in Python and React.js featuring a monolithic REST architecture; implemented machine learning models using Random Forest for non-real-time predictions and reinforcement learning with web scraping for real-time updates; tested with Postman and PyTest and deployed on a publicly accessible web platform.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
